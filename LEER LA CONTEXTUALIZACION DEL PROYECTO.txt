@@ -10,7 +10,29 @@
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------
 |En esa evidencia adicionalmente se desarrolló una aplicación crud con laravel aplicando algunos conocimientos básicos y gracias a tutoriales de YouTube.        
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------
-|Para el desarrollo de esa evidencia se hizo uso de Laravel-Crud-Generator para así poder facilitar el desarrollo del crud.                                      
+|Para el desarrollo de esa evidencia se hizo uso de Laravel-Crud-Generator para así poder facilitar el desarrollo del crud.                 
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|
+|Para el desarrollo de la aplicación con laravel se tuvo el uso de la aplicación composer para ejecutar el instalador de los proyectos laravel,
+|una vez creado el proyecto se ejecuta apache y mysql en xampp para poder cargar todos los servicios necesarios para la ejecución del programa,
+|seguido de esto se crea el modelo base de la aplicación el cual nos centramos en la creación de productos,
+|una vez hecho esto configuramos los atributos necesarios del modelo para antes de hacer las migraciones. 
+|
+|Antes de hacer las migraciones se tiene que configurar las bases de datos en el archivo .env donde se debe configurar el nombre de la base de datos y la base de datos,
+|por defecto la base de datos seleccionada es sqlite, así que dependiendo del gestor de bases de datos se debe de cambiar cada uno de sus parámetros de configuración.
+|
+|Seguido de esto se procede a hacer las migraciones del modelo, luego de esto se crea la vista y el controlador a base del modelo,
+|donde en el controlador le vamos a dar toda la lógica necesaria a cada uno de los parámetros del modelo,
+|y seguido de esto se configura la vista donde van a ir cada uno de los componentes gráficos del modelo crud.
+|
+|Hay que tener en cuenta que cada uno de los componentes del modelo debe de tener una vista donde se conectará
+|la lógica por medio del controlador para así poder ejecutar correctamente el modelo sin ningún tipo de errores. 
+
+|Luego de esto con bootstrap se le da el estilo necesario a cada una de las vistas del modelo.
+|Por último es importante configurar las rutas del modelo para así poder tener el acceso a la vista gráfica del modelo productos
+|Y finalmente se ejecuta la aplicación utilizando uno de los comando "php artisan" donde nos da el comando
+|necesario para poder ejecutar la aplicación a un alcance local.
+|
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------
 |herramientas usadas:
 |
