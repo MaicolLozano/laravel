@@ -1,0 +1,32 @@
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|En el desarrollo de esta evidencia se hizo uso del framework laravel en el cual se tenía como objetivo crear una aplicación del árabe con composer,             
+| en este nuestro grupo tomó la decisión de profundizar un poco más con algo de conocimientos en laravel y php,                                                  
+|  gracias a muchas investigaciones se pudo realizar el proyecto en laravel.                                                                                     
+|La evidencia está realizada por:                                                                                                                                
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Michael Steven Lozano                                                                                                                                          
+|Raúl Alfonso González Gómez                                                                                                                                    
+|José Roberto Pérez Cano                                                                                                                                         
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|En esa evidencia adicionalmente se desarrolló una aplicación crud con laravel aplicando algunos conocimientos básicos y gracias a tutoriales de YouTube.        
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|Para el desarrollo de esa evidencia se hizo uso de Laravel-Crud-Generator para así poder facilitar el desarrollo del crud.                                      
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|herramientas usadas:
+|
+|Git 
+|Github
+|Laravel Composer
+|Laravel Crud-Generator
+|
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|
+|Link del repositorio:
+|https://github.com/MaicolLozano/laravel.git
+|
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------
+|
+|Bibliografia:
+|https://www.youtube.com/watch?v=a-4923Uyu54&t=3900s
+|
+|https://www.youtube.com/watch?v=j5baJsM_Adc&pp=ygUWY3J1ZCByYXBpZG8gZW4gbGFyYXZlbA%3D%3D
